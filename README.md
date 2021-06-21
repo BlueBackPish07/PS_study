@@ -20,5 +20,5 @@
 * [아기상어](https://www.acmicpc.net/problem/16236)
 * [연구소](https://www.acmicpc.net/problem/14502)
 * [치킨배달](https://www.acmicpc.net/problem/15686)
-* [로봇 청소기](https://www.acmicpc.net/problem/4210) 
+* [x] [로봇 청소기](https://www.acmicpc.net/problem/4210) 
 
