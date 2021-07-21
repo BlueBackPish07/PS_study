@@ -47,9 +47,9 @@
 
 ## 5주차 dfs, bfs 3 & 시뮬레이션 210724
 
-- [x] [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+- [ ] [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 - [ ] [카카오 프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
 - [ ] [나무 재테크](https://www.acmicpc.net/problem/16235)
-- [ ] []()
-- [ ] []()
+- [ ] [감시](https://www.acmicpc.net/problem/15683)
+- [x] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 
