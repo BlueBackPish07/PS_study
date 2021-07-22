@@ -1,7 +1,7 @@
 def solution(begin, target, words):
     from collections import deque
     
-    graph={i:0 for i in words} #딕셔너리를 이용해 과정을 같이 저장한다. vistited를 따로 안 만들어서 좋네
+    graph={i:0 for i in words} #딕셔너리를 이용해 과정을 같이 저장한다. 
     graph[begin]=0
     
     queue=deque()
