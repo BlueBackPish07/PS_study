@@ -5,7 +5,7 @@ def solution(triangle):
         return triangle[0][0]
     if len(triangle) == 2:
         return max(triangle[1][0], triangle[1][1]) + triangle[0][0]
-
+        
     triangle[1][0]+=triangle[0][0]
     triangle[1][1]+=triangle[0][0]
     for line in range(2,len(triangle)): #삼각형의 줄 수 만큼
