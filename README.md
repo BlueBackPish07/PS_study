@@ -67,7 +67,7 @@
 ## 8주차 dp 210814
 - [x] [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 
-## 9주차 플로이드 워셜, 다익스트라 201821
+## 9주차 플로이드 워셜, 다익스트라 210821
 - [x] [플로이드](https://www.acmicpc.net/problem/11404)
 - [x] [인간대포](https://www.acmicpc.net/problem/10473)
 - [x] [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
