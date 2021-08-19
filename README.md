@@ -55,3 +55,14 @@
 - [ ] [감시](https://www.acmicpc.net/problem/15683)
 - [x] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 
+
+## 6주차 dp 210731
+- [x] [퇴사](https://www.acmicpc.net/problem/14501)
+- [x] [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+- [x] [n으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+
+## 7주차 dp 210807
+- [x] [14499](https://www.acmicpc.net/problem/14499)
+
+## 8주차 dp 210814
+- [x] [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
