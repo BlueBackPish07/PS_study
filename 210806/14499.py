@@ -1,3 +1,5 @@
+
+#시뮬레이션 연습!
 import sys
 N , M , r ,c, K = map(int,sys.stdin.readline().split())
 arr= []
